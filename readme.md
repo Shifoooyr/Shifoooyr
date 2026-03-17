@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sherif Yasser
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=#FFD700\&lines=Full+Stack+.Net+Developer;Flutter+Developer;Problem+Solver)
+![Typing](https://readme-typing-svg.herokuapp.com?color=FFD700\&lines=Full+Stack+.Net+Developer;Flutter+Developer;Problem+Solver)
 
 
 ## 🔥 About Me
