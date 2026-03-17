@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sherif Yasser
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=00ADB5\&lines=Full+Stack+Developer;Flutter+Specialist;Clean+Code+Lover)
+![Typing](https://readme-typing-svg.herokuapp.com?color=#FFD700\&lines=Full+Stack+.Net+Developer;Flutter+Developer;Problem+Solver)
 
-🚀 Full Stack Developer | 📱 Flutter Developer | 🧠 Problem Solver
 
 ## 🔥 About Me
 
