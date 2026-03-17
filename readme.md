@@ -2,6 +2,7 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=FFD700\&lines=Full+Stack+.Net+Developer;Flutter+Developer;Problem+Solver)
 
+🚀 Full Stack Developer | 📱 Flutter Developer | 🧠 Problem Solver
 
 ## 🔥 About Me
 
@@ -22,10 +23,6 @@
 ## 🔥 Streak Stats
 
 ![Streak](https://streak-stats.demolab.com?user=Shifoooyr\&theme=tokyonight\&hide_border=true)
-
-## 🐍 Contribution Snake
-
-![Snake](https://github.com/Shifoooyr/Shifoooyr/blob/output/github-contribution-grid-snake.svg)
 
 ## 💼 Services
 
