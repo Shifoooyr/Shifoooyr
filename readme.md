@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Shifoooyr\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
 
 ## 🔥 Streak Stats
 
